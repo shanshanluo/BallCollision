@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="usb_bulk_mode">
+</Property><Property Name="Solution File" Value="E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.sln">
+</Property><Property Name="User Options File" Value="E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.suo">
+</Property><Property Name="Date" Value="Friday, April 19, 2013">
+</Property><Property Name="Time" Value="1:31 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="usb_bulk_mode.sln" Description="File successfully backed up as E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="usb_bulk_mode.suo" Description="File successfully backed up as E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.suo.old">
+</Event><Event ErrorLevel="0" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Converting project file 'E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.vcproj'.">
+</Event><Event ErrorLevel="1" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Done converting to new project file 'E:\utdallas\2013spring\ee6302_microprocessor\final\vc\usb_bulk_mode.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="usb_bulk_mode" Source="usb_bulk_mode.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="usb_bulk_mode.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="usb_bulk_mode.sln" Description="Converted">
+</Event></UpgradeLog>
